@@ -1,0 +1,6 @@
+{
+  "name": "paste-preview",
+  "version": "0.1.0",
+  "description": "Shows images you paste into the prompt as pictures under your message in the chat",
+  "types": "./types/index.d.ts"
+}

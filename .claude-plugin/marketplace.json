@@ -1,0 +1,5 @@
+{
+  "name": "paste-preview",
+  "owner": { "name": "mfahad1" },
+  "plugins": [{ "name": "paste-preview", "source": "./" }]
+}
